@@ -1,4 +1,6 @@
 cooles_fh_projekt
 =================
 
-Testprojekt zum demonstireren von Git &amp; Github
+lustiges Testprojekt zum demonstireren von Git &amp; Github
+
+Wir haben Spaﬂ!
